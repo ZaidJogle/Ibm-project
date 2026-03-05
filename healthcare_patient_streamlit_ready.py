@@ -131,7 +131,7 @@ st.write("---")
 st.markdown(
 """
 **Project:** Diabetes Prediction Using Machine Learning  
-**Student:** Maryam Hussain  
+**Student:** Zaid Jogle  
 **Course:** B.Sc Data Science  
 """
 )
