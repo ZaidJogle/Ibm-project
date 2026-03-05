@@ -162,12 +162,11 @@ print("Model and scaler saved successfully.")
 
 Create a new file called **app.py** in your GitHub repository and paste the following code.
 """
-
-!pip install streamlit -qq
-
 import streamlit as st
-import joblib
+import pandas as pd
 import numpy as np
+import joblib
+
 
 # The previous try-except block for installation is no longer needed here
 # as the installation command is now at the top.
